@@ -1,0 +1,11 @@
+/* #root {
+  justify-content: center;
+} */
+body {
+  background-color: #fff;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
